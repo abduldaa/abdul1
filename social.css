@@ -1,0 +1,182 @@
+body
+{
+
+background-image: url("tree.png");
+ background-color: #cccccc;
+ background-blend-mode:luminosity;
+ background-size:1400px 700px;
+ background-repeat:no-repeat;
+
+ 
+}
+.para
+{
+	color:white;
+	top:280px;
+	position:absolute;
+	text-align:left;
+	  word-wrap: break-word;
+	  width:1000px;
+}
+.head
+{
+	color:white;
+	font-family:'Brush Script MT', cursive;
+	font-size:60px;
+	position:absolute;
+	top:110px;
+}
+
+.head1
+{
+	color:white;
+	font-family:verdana;
+	position:absolute;
+	top:230px;
+	left:10px;
+}
+.head2
+{
+	color:white;
+	font-family:verdana;
+	position:absolute;
+top:550px;
+	font-size:40px;
+}
+.head3
+{
+	color:white;
+	font-family:verdana;
+	font-size:15px;
+	}
+#home
+{
+	position:absolute;
+	top:590px;
+	left:200px;
+}
+#home:hover
+{
+	color:orange;
+	cursor:pointer;
+}
+#about:hover
+{
+	color:orange;
+	cursor:pointer;
+}
+#cont:hover
+{
+	color:orange;
+	cursor:pointer;
+}
+#about
+{
+	position:absolute;
+	top:590px;
+	left:270px;
+}
+#cont
+{
+	position:absolute;
+	top:590px;
+	left:340px;
+}
+.pipe
+{
+	color:white;
+	position:absolute;
+	top:594px;
+	left:258px;
+	font-weight:bold;
+}
+.pipe1
+{
+	color:white;
+	position:absolute;
+	top:594px;
+	left:330px;
+	font-weight:bold;
+}
+
+
+
+.img
+{
+
+	position:absolute;
+	height:20px;
+	left:14px;
+	top:85px;
+	
+}
+.img1
+{
+
+	position:absolute;
+	height:20px;
+	left:45px;
+	top:85px;
+	
+}
+.img2
+{
+
+	position:absolute;
+	height:20px;
+	left:76px;
+	top:85px;
+	
+}
+.img3
+{
+
+	position:absolute;
+	height:20px;
+	left:108px;
+	top:85px;
+	
+}
+.img4
+{
+
+	position:absolute;
+	height:20px;
+	left:140px;
+	top:85px;
+	
+}
+.square{
+	height:100px;
+	width:30px;
+background-color:grey;
+position:absolute;
+}
+.square1{
+	height:100px;
+	width:30px;
+background-color:grey;
+position:absolute;
+left:40px;
+}
+.square2{
+	height:100px;
+	width:30px;
+background-color:grey;
+position:absolute;
+left:72px;
+}
+.square3{
+	height:100px;
+	width:30px;
+background-color:grey;
+position:absolute;
+left:104px;
+}
+.square4{
+	height:100px;
+	width:30px;
+background-color:grey;
+position:absolute;
+left:136px;
+}
